@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\controllers\\albumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\models\\spotifysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\models\\spotifysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\models\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\controllers\\googlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\controllers\\googlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\dto\\albumwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\dto\\albumwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\dto\\albumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\dto\\albumresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\client\\igoogleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\client\\igoogleclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\client\\ialbumspotifyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\client\\ialbumspotifyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\client\\iauthspotifyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\client\\iauthspotifyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|c:\\users\\victor\\desktop\\spotifyalbumrequest\\spotifyalbumrequestbackend\\spotifyapi\\spotifyapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DEED0BFB-9AC1-457A-9257-C74CF17438B1}|SpotifyAPI\\SpotifyAlbumRequestBackEnd.csproj|solutionrelative:spotifyapi\\spotifyapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpotifySettings.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Models\\SpotifySettings.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\Models\\SpotifySettings.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Models\\SpotifySettings.cs",
+              "RelativeToolTip": "SpotifyAPI\\Models\\SpotifySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:30:13.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SpotifyAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\appsettings.Development.json",
+              "RelativeToolTip": "SpotifyAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T02:21:48.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SpotifyAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\appsettings.json",
+              "RelativeToolTip": "SpotifyAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T02:21:11.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoogleController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Controllers\\GoogleController.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\Controllers\\GoogleController.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Controllers\\GoogleController.cs",
+              "RelativeToolTip": "SpotifyAPI\\Controllers\\GoogleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:59:12.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlbumWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\DTO\\AlbumWrapper.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\DTO\\AlbumWrapper.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\DTO\\AlbumWrapper.cs",
+              "RelativeToolTip": "SpotifyAPI\\DTO\\AlbumWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:46:12.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlbumResponse.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\DTO\\AlbumResponse.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\DTO\\AlbumResponse.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\DTO\\AlbumResponse.cs",
+              "RelativeToolTip": "SpotifyAPI\\DTO\\AlbumResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:45:54.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\DTO\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\DTO\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\DTO\\LoginResponse.cs",
+              "RelativeToolTip": "SpotifyAPI\\DTO\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:44:52.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "SpotifyAPI\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:44:38.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGoogleClient.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Client\\IGoogleClient.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\Client\\IGoogleClient.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Client\\IGoogleClient.cs",
+              "RelativeToolTip": "SpotifyAPI\\Client\\IGoogleClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:43:46.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAlbumSpotifyClient.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Client\\IAlbumSpotifyClient.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\Client\\IAlbumSpotifyClient.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Client\\IAlbumSpotifyClient.cs",
+              "RelativeToolTip": "SpotifyAPI\\Client\\IAlbumSpotifyClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:14:15.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthSpotifyClient.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Client\\IAuthSpotifyClient.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\Client\\IAuthSpotifyClient.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Client\\IAuthSpotifyClient.cs",
+              "RelativeToolTip": "SpotifyAPI\\Client\\IAuthSpotifyClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:13:44.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Models\\Album.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\Models\\Album.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Models\\Album.cs",
+              "RelativeToolTip": "SpotifyAPI\\Models\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T04:12:18.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlbumController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Controllers\\AlbumController.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\Controllers\\AlbumController.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Controllers\\AlbumController.cs",
+              "RelativeToolTip": "SpotifyAPI\\Controllers\\AlbumController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:56:43.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SpotifyAPI.http",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\SpotifyAPI.http",
+              "RelativeDocumentMoniker": "SpotifyAPI\\SpotifyAPI.http",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\SpotifyAPI.http",
+              "RelativeToolTip": "SpotifyAPI\\SpotifyAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-15T03:55:35.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SpotifyAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\Desktop\\SpotifyAlbumRequest\\SpotifyAlbumRequestBackEnd\\SpotifyAPI\\Program.cs",
+              "RelativeToolTip": "SpotifyAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T03:55:32.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

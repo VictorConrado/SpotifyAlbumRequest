@@ -1,0 +1,18 @@
+# Node
+node_modules/
+dist/
+
+# Dotnet
+bin/
+obj/
+
+# Environment files
+.env
+*.env
+appsettings.Development.json
+
+# VSCode
+.vscode/
+
+# Logs
+*.log

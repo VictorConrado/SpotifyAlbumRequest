@@ -1,0 +1,6 @@
+@SpotifyAPI_HostAddress = http://localhost:8080
+
+GET {{SpotifyAPI_HostAddress}}/SpotifyAPI/
+Accept: application/json
+
+###

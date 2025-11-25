@@ -1,0 +1,13 @@
+﻿using Refit;
+
+public class LoginRequest
+{
+    [AliasAs("grant_type")]
+    public string GrantType { get; set; }
+
+    [AliasAs("client_id")]
+    public string ClientId { get; set; }
+
+    [AliasAs("client_secret")]
+    public string ClientSecret { get; set; }
+}
