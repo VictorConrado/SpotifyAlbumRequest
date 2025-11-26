@@ -20,4 +20,4 @@ COPY --from=build /app .
 EXPOSE 8080
 EXPOSE 80
 
-ENTRYPOINT ["dotnet", "SpotifyAlbumRequestBackEnd.dll"]
+ENTRYPOINT ["dotnet", "SpotifyAPI.dll"]
