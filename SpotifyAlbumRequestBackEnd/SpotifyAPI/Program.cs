@@ -4,20 +4,18 @@ using SpotifyAlbumRequestBackEnd.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// --- Carrega configurações (Spotify: ClientId / ClientSecret) ---
-var configuration = builder.Configuration;
-builder.Services.Configure<SpotifySettings>(configuration.GetSection("Spotify"));
+// --- Configurações Spotify ---
+builder.Services.Configure<SpotifySettings>(builder.Configuration.GetSection("Spotify"));
 
 // --- CORS ---
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowFrontend",
-        policy =>
-        {
-            policy.WithOrigins("http://localhost:5173")
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
-        });
+    options.AddPolicy("AllowFrontend", policy =>
+    {
+        policy.WithOrigins("http://localhost:5173")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
 });
 
 // --- Refit Clients ---
@@ -49,16 +47,23 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// --- Porta (Docker) ---
+builder.WebHost.UseUrls("http://0.0.0.0:8080");
+
 var app = builder.Build();
 
-// --- Swagger UI (somente em Dev) ---
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+// --- MIDDLEWARES IMPORTANTES ---
+app.UseStaticFiles();  // <- ESSENCIAL PARA SWAGGER FUNCIONAR NO DOCKER
 
-app.UseHttpsRedirection();
+app.UseSwagger();
+app.UseSwaggerUI();
+
+// Evita erro de HTTPS dentro do Docker
+var isDocker = Environment.GetEnvironmentVariable("DOTNET_RUNNING_IN_CONTAINER") == "true";
+if (!isDocker)
+{
+    app.UseHttpsRedirection();
+}
 
 app.UseCors("AllowFrontend");
 
