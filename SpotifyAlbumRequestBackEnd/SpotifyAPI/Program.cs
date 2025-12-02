@@ -12,9 +12,12 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
     {
-        policy.WithOrigins("http://localhost:5173")
-              .AllowAnyHeader()
-              .AllowAnyMethod();
+        policy.WithOrigins(
+             "http://localhost:5173",
+             "https://spotifyalbumrequestfrontend.onrender.com" 
+         )
+        .AllowAnyHeader()
+        .AllowAnyMethod();
     });
 });
 
@@ -33,14 +36,9 @@ builder.Services
         c.BaseAddress = new Uri("https://api.spotify.com");
     });
 
-builder.Services
-    .AddRefitClient<IGoogleClient>()
-    .ConfigureHttpClient(c =>
-    {
-        c.BaseAddress = new Uri("https://google.com");
-    });
 
 // --- Controllers ---
+
 builder.Services.AddControllers();
 
 // --- Swagger ---
@@ -53,12 +51,10 @@ builder.WebHost.UseUrls("http://0.0.0.0:8080");
 var app = builder.Build();
 
 // --- MIDDLEWARES IMPORTANTES ---
-app.UseStaticFiles();  // <- ESSENCIAL PARA SWAGGER FUNCIONAR NO DOCKER
-
+app.UseStaticFiles(); 
 app.UseSwagger();
 app.UseSwaggerUI();
 
-// Evita erro de HTTPS dentro do Docker
 var isDocker = Environment.GetEnvironmentVariable("DOTNET_RUNNING_IN_CONTAINER") == "true";
 if (!isDocker)
 {
