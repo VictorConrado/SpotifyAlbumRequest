@@ -12,11 +12,12 @@ O projeto demonstra:
 - 🎨 Interface moderna inspirada no Spotify (React + Tailwind)
 - 🧩 Organização profissional entre backend e frontend
 
-🔗**Front-End do Projeto:** [https://spotifyalbumrequestfrontend.onrender.com](https://spotifyalbumrequestfrontend.onrender.com/)
+**Obs.:** Infelizmente, após as atualizações nas políticas de uso do Spotify, a API utilizada foi suspensa, tornando inviável a realização das requisições no momento.  
+Estou trabalhando em alternativas para contornar essa limitação.  
 
-🔗**Back-End do Projeto:** [https://spotifyalbumrequestbackend.onrender.com/swagger/index.html](https://spotifyalbumrequestbackend.onrender.com/swagger/index.html)
+ 🔗 [Ver demonstração anterior no LinkedIn](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7402558102580998144)
 
-*Obs: Por ser um projeto de estudo hospedado em um servidor gratuito, após 15 minutos de inatividade a aplicação pode entrar em modo de hibernação. Nesse caso, a primeira requisição pode demorar um pouco mais para responder. Após essa requisição inicial, o desempenho volta ao normal. Agradeço a compreensão!*
+Agradeço a compreensão!
 
 ---
 
